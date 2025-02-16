@@ -35,13 +35,21 @@
     }
 
     main > section#login > div#imagens{
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
 
     main > section#login > div#formulario{
-        float: right;
+        float: left;
         width: 50%;
+    }
+
+    main > section > div > h1{
+        font-size: 2em;
+    }
+    
+    main > section > div > p{
+        font-size: 1.2em;
     }
 }
